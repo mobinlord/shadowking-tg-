@@ -237,30 +237,21 @@ function create_config( )
     },
     sudo_users = {219339258,175636120,198794027},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
+    about_text = [[shadowking v2
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/mobinlord/shadowking-tg-/tree/supergroups
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
+@redteam_01_13 [Founder]
+@redteam_01_32 [Developer]
+@SHO_OKER_ADMIN [Admin]
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
 
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+Our channel
+@shadowking_ch
 
-Our website 
-http://teleseed.seedteam.org/
+
 ]],
     help_text_realm = [[
 Realm Commands:
