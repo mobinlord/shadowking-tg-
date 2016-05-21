@@ -232,22 +232,32 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {219339258,175636120,198794027},--Sudo users
+    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [shadowking v2
+    about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/mobinlord/shadowkung-tg-
+https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@redteam_01_13 [Founder]
-@redteam_01_32 [Developer]
-@sho_oker_admin [Admin]
+@iwals [Founder]
+@imandaneshi [Developer]
+@POTUS [Developer]
+@seyedan25 [Manager]
+@aRandomStranger [Admin]
 
+Special thanks to
+awkward_potato
+Siyanew
+topkecleon
+Vamptacus
 
-Our channel
-@shadowking_ch
+Our channels
+@teleseedch [English]
+@iranseed [persian]
 
+Our website 
+http://teleseed.seedteam.org/
 ]],
     help_text_realm = [[
 Realm Commands:
